@@ -3,6 +3,11 @@
 title: Genie
 url: "https://Genie-YuJinPark.github.io"
 baseurl: ""
+<<<<<<< HEAD
+=======
+locale: "ko-KR"
+name: "PARK YUJIN"
+>>>>>>> 8bb1d340e5d57f1b56e6e3a16206c62b86eec05e
 
 # This will show up at the top of index page
 site_heading: >
@@ -13,7 +18,11 @@ author: PARK YUJIN
 # This description will show up in google search results
 # (for index page) etc.
 description: >
+<<<<<<< HEAD
     Genie°¡ °øºÎÇÏ°í ¿¬½ÀÇÏ´Â BlogÀÔ´Ï´Ù :)
+=======
+    Genieê°€ ê³µë¶€í•˜ê³  ì—°ìŠµí•˜ëŠ” Blogìž…ë‹ˆë‹¤ :)
+>>>>>>> 8bb1d340e5d57f1b56e6e3a16206c62b86eec05e
 
 # This will what will show against &copy; in the footer
 copyright: Genie-YuJinPark 2019
