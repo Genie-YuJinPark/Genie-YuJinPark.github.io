@@ -3,6 +3,8 @@
 title: Genie
 url: "https://Genie-YuJinPark.github.io"
 baseurl: ""
+locale: "ko-KR"
+name: "PARK YUJIN"
 
 # This will show up at the top of index page
 site_heading: >
